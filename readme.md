@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/TorToolkit-Telegram/tree/heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Villain-4u/Devil-TorToolkit-Telegram/tree/heroku)
 # WebUI
 WebUI for selecting individual torrent file
 
